@@ -25,6 +25,8 @@ namespace Task_Book
         public void RemoveAllBookByName(string str)
         { 
               books.RemoveAll(r => r.Name.ToUpper().Contains(str.ToUpper())); 
+            Console.WriteLine(" -------------daxil etdiyiniz acar soze uygun kitab silindi----------------");
+                        Console.WriteLine();
         }
         public List<Book> SearchBooks(string str)
         { 
@@ -50,11 +52,15 @@ namespace Task_Book
                     if (item.Code.ToUpper()== str.ToUpper())
                     {
                         books.Remove(item);
+                        Console.WriteLine(" -------------daxil etdiyiniz acar soze uygun kitab silindi----------------");
+                        Console.WriteLine();
                         goto begin;
                     }
 
                 }
+               
             }
+            
              
         } 
 
