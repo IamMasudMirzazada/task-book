@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Task Book\Task-Book\Task-Book\obj\Debug\netcoreapp3.1\Task-Book.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Task Book\Task-Book\Task-Book\obj\Debug\netcoreapp3.1\Task-Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Task Book\Task-Book\Task-Book\obj\Debug\netcoreapp3.1\Task-Book.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Task Book\Task-Book\Task-Book\obj\Debug\netcoreapp3.1\Task-Book.AssemblyInfo.cs
+C:\Users\HP\Desktop\Task Book\Task-Book\Task-Book\obj\Debug\netcoreapp3.1\Task-Book.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Task Book\Task-Book\Task-Book\bin\Debug\netcoreapp3.1\Task-Book.exe
+C:\Users\HP\Desktop\Task Book\Task-Book\Task-Book\bin\Debug\netcoreapp3.1\Task-Book.deps.json
+C:\Users\HP\Desktop\Task Book\Task-Book\Task-Book\bin\Debug\netcoreapp3.1\Task-Book.runtimeconfig.json
+C:\Users\HP\Desktop\Task Book\Task-Book\Task-Book\bin\Debug\netcoreapp3.1\Task-Book.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Task Book\Task-Book\Task-Book\bin\Debug\netcoreapp3.1\Task-Book.dll
+C:\Users\HP\Desktop\Task Book\Task-Book\Task-Book\bin\Debug\netcoreapp3.1\Task-Book.pdb
+C:\Users\HP\Desktop\Task Book\Task-Book\Task-Book\obj\Debug\netcoreapp3.1\Task-Book.dll
+C:\Users\HP\Desktop\Task Book\Task-Book\Task-Book\obj\Debug\netcoreapp3.1\Task-Book.pdb
+C:\Users\HP\Desktop\Task Book\Task-Book\Task-Book\obj\Debug\netcoreapp3.1\Task-Book.genruntimeconfig.cache
